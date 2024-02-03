@@ -5,6 +5,10 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Donate from "./components//Donate/Donate";
 
+import Achievements from "./components/Achievements/Achievements";
+
+
+
 function App() {
   return (
     <div className="App">
@@ -12,6 +16,7 @@ function App() {
         <Header />
         <Hero />
       </div>
+      <Achievements />
       <Companies />
       <Contact />
       <Donate />
