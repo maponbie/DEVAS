@@ -1,6 +1,15 @@
 import React from 'react';
 
 const Register = () => {
+  const history = useHistory();
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    // Redirect back to the main page after form submission
+    history.push('/');
+  };
+
   return (
     <html lang="en">
       <head>
