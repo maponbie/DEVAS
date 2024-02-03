@@ -8,9 +8,9 @@ const Header = () => {
         <img src="./nourishnet.png" alt="logo" width={100} />
 
         <div className="flexCenter h-menu">
-          <a href="">Get Started</a>
-          <a href="">Residencies</a>
-          <a href="">Our Value</a>
+          <a href="">Register Now</a>
+          <a href="">About Us</a>
+          <a href="">Donate</a>
           <button className="button">
             <a href="">Contact Us</a>
           </button>

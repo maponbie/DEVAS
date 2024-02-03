@@ -1,5 +1,6 @@
 import React from "react";
 import "./Hero.css";
+import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
@@ -8,12 +9,18 @@ const Hero = () => {
         {/*left side */}
         <div className="flexColStart hero-left">
           <div className="hero-title">
-            <h1>
-              Nourish Net
+            <motion.h1
+              initial={{ y: "2rem", opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              transition={{ duration: 2, type: "spring" }}
+            >
+              <h1>Nourish Net</h1>
               <br />
-              Food Relief Program <br />
-              for College Students
-            </h1>
+              <p>
+                Food Relief Program <br />
+                for College Students
+              </p>
+            </motion.h1>
           </div>
           <div classname="flexColStart hero-des">
             <span>
@@ -31,9 +38,17 @@ const Hero = () => {
 
         {/*right side */}
         <div className="flexCenter hero-right">
-          <div className="image-container">
+          <motion.div
+            initial={{ x: "7rem", opacity: 0 }}
+            animate={{ x: 0, opacity: 1 }}
+            transition={{
+              duration: 2,
+              type: "spring",
+            }}
+            className="image-container"
+          >
             <img src="./food-network.png" alt="" />
-          </div>
+          </motion.div>
         </div>
       </div>
     </section>
