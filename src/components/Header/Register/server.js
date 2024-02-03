@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const app = express();
 
-// Your local port number
+// Local port number
 const port = 3000;
 
 app.use(express.json());
