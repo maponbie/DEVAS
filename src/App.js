@@ -6,7 +6,7 @@ import Hero from "./components/Hero/Hero";
 import Companies from "./components/Companies/Companies";
 import Contact from "./components/Contact/Contact";
 import Donate from "./components/Donate/Donate";
-import Register from "./components/Register/Register";
+import Register from "./components/Header/Register/Register";
 
 function App() {
   return (
