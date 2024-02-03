@@ -10,8 +10,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background: rgb(101,139,100);
-    background: linear-gradient(90deg, rgba(101,139,100,1) 0%, rgba(116,186,114,1) 35%, rgba(171,214,122,1) 62%, rgba(173,223,115,1) 90%, rgba(223,255,186,1) 98%);
+    background-color: rgba(253, 218, 175, 0.822);
     background-size: cover;
 }
 
