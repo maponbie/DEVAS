@@ -4,6 +4,7 @@ import Contact from "./components/Contact/Contact";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Donate from "./components//Donate/Donate";
+import About from "./components/About/About";
 
 import Achievements from "./components/Achievements/Achievements";
 
@@ -18,6 +19,7 @@ function App() {
       </div>
       <Achievements />
       <Companies />
+      <About />
       <Contact />
       <Donate />
     </div>
