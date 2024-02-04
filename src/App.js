@@ -7,6 +7,10 @@ import Donate from "./components//Donate/Donate";
 import Program from "./components/Program/Program";
 import Footer from "./components/Footer/Footer";
 
+import Achievements from "./components/Achievements/Achievements";
+
+
+
 function App() {
   return (
     <div className="App">
@@ -14,6 +18,7 @@ function App() {
         <Header />
         <Hero />
       </div>
+      <Achievements />
       <Companies />
       <Program />
       <Contact />
