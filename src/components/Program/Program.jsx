@@ -261,8 +261,7 @@ const Program = () => {
               </div>
               <div className="about-text">
                 <div className="title">
-                  <h2>Nourish Net</h2>
-                  <p>Our Vision</p>
+                  <h2>Our Vision</h2>
                 </div>
                 <p>
                   Nourish Net's vision is “No college student should have to
