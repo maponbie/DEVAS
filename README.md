@@ -8,3 +8,6 @@ At Nourish Net, our journey began with a simple yet powerful belief: every stude
 
 # Contributors 
 This website and repository were created by Khanh Ha Nguyen, Martha Aponbiede, Rubal Khehra, and Hailey Thomas
+
+# Link
+https://nourishnet.live
