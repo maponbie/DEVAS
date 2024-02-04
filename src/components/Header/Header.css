@@ -17,3 +17,7 @@
 .h-menu > *:hover {
   cursor: pointer;
 }
+
+.h-container > img {
+  width: 10rem;
+}
