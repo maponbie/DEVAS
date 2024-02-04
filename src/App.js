@@ -6,7 +6,6 @@ import Hero from "./components/Hero/Hero";
 import Donate from "./components//Donate/Donate";
 import Program from "./components/Program/Program";
 import Footer from "./components/Footer/Footer";
-
 import Achievements from "./components/Achievements/Achievements";
 
 function App() {

@@ -42,7 +42,11 @@ const Contact = () => {
                     <span className="secondaryText">999 999 9999</span>
                   </div>
                 </div>
-                <div className="flexCenter button">Chat Now</div>
+                <div className="flexCenter button">
+                  <a href="./components/ChatBot/index.html" target="_blank">
+                    Chat Now
+                  </a>{" "}
+                </div>
               </div>
             </div>
 
