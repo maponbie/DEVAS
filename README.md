@@ -1,6 +1,6 @@
 # Nourish Net ![1_transparent](https://github.com/maponbie/DEVAS/assets/109697302/b5e9c21a-9f38-459d-b442-77678f1592e4)
 
-Here at Nourish Net, we firmly feel that no college student should have to battle hunger on their own. We are committed to making sure that every kid in the busy academic hallways has access to the food they require to flourish. Come along with us as we fight hunger and build a better future for everybody.
+Here at Nourish Net, we firmly feel that no college student should have to battle hunger on their own. We are committed to making sure that every college student in the busy academic hallways has access to the food they require to flourish. Come along with us as we fight hunger and build a better future for everybody.
 
 # About Us
 
