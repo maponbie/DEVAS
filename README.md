@@ -13,4 +13,8 @@ This website and repository were created by Khanh Ha Nguyen, Martha Aponbiede, R
 https://nourishnet.live
 
 #Walk Through
+<a href="https://player.vimeo.com/video/909722771?h=1a5d62f7b7"> 
+   <img width="365" src="![logo](https://github.com/maponbie/DEVAS/assets/84813907/0fdb23f5-65b7-4708-9fc2-7e0533234920)
+">
+</a>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/909722771?h=1a5d62f7b7" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
