@@ -9,10 +9,10 @@ At Nourish Net, our journey began with a simple yet powerful belief: every stude
 # Contributors 
 This website and repository were created by Khanh Ha Nguyen, Martha Aponbiede, Rubal Khehra, and Hailey Thomas
 
-# Link
-https://nourishnet.live
-
-# Walk Through
+# Video Walk Through
 <a href="https://player.vimeo.com/video/909722771?h=1a5d62f7b7"> 
    <img width="365" src="https://github.com/maponbie/DEVAS/assets/109697302/b5e9c21a-9f38-459d-b442-77678f1592e4">
 </a>
+
+# Link
+https://nourishnet.live
