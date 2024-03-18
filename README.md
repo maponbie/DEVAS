@@ -14,5 +14,5 @@ https://nourishnet.live
 
 # Walk Through
 <a href="https://player.vimeo.com/video/909722771?h=1a5d62f7b7"> 
-   <img width="365" src="![logo](https://github.com/maponbie/DEVAS/assets/84813907/0fdb23f5-65b7-4708-9fc2-7e0533234920)">
+   <img width="365" src="https://files.slack.com/files-pri/T031YV7TCBT-F06GUG1L4GN/3.png">
 </a>
