@@ -11,3 +11,6 @@ This website and repository were created by Khanh Ha Nguyen, Martha Aponbiede, R
 
 # Link
 https://nourishnet.live
+
+#Walk Through
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/909722771?h=1a5d62f7b7" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
